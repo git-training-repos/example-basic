@@ -1,4 +1,4 @@
-- Setup git repository
+- Initialize Git repo
 - Define initial project structure
 - Schedule project kickoff meeting
 - Draft requirements document
