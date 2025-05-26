@@ -4,3 +4,4 @@
 - Assigned initial tasks
 - Planned next week meeting
 - Sarah: Prioritize feature list before coding.
+- Added note about onboarding new intern.
