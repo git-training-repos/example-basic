@@ -1,7 +1,6 @@
 - Initialize Git repo
 - Define initial project structure [Done]
 - Schedule project kickoff meeting [Done]
-- Draft requirements document
 - Set deadlines for phase 1 tasks
 - Review CI/CD options
 - Create user stories for key features
