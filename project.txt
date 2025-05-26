@@ -1,0 +1,3 @@
+# Project Alpha
+
+This project aims to develop a simple task management tool.
