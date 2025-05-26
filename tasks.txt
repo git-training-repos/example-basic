@@ -3,3 +3,4 @@
 - Schedule project kickoff meeting
 - Draft requirements document
 - Set deadlines for phase 1 tasks
+- Review CI/CD options
