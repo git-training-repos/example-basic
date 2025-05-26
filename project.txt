@@ -4,3 +4,4 @@ The tool should support adding, updating, and listing tasks.
 This project aims to develop a simple task management tool.
 Summary: MVP expected in 3 weeks.
 Scope: This tool targets solo developers and small teams.
+Contributors: Tom, Ben, Sarah
