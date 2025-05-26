@@ -1,4 +1,4 @@
-# Meeting Notes
+## Meeting Notes
 
 - Discussed project goals
 - Assigned initial tasks
