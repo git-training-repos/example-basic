@@ -6,3 +6,4 @@
 - Sarah: Prioritize feature list before coding.
 - Added note about onboarding new intern.
 - Action: Prepare slides for stakeholder review.
+- Next meeting: Friday at 2 PM
