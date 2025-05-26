@@ -2,3 +2,4 @@
 - Define initial project structure
 - Schedule project kickoff meeting
 - Draft requirements document
+- Set deadlines for phase 1 tasks
