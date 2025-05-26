@@ -1,10 +1,9 @@
 ## Meeting Notes
 
-- Discussed project goals
-- Assigned initial tasks
-- Planned next week meeting
-- Sarah: Prioritize feature list before coding.
-- Added note about onboarding new intern.
-- Action: Prepare slides for stakeholder review.
-- Next meeting: Friday at 2 PM
-- Client wants minimalist UI and offline support.
+* Discussed project goals
+* Assigned initial tasks
+* Planned next week meeting
+* Sarah: Prioritize feature list before coding.
+* Added note about onboarding new intern.
+* Action: Prepare slides for stakeholder review.
+* Next meeting: Friday at 2 PM
