@@ -7,3 +7,4 @@
 - Added note about onboarding new intern.
 - Action: Prepare slides for stakeholder review.
 - Next meeting: Friday at 2 PM
+- Client wants minimalist UI and offline support.
