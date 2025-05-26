@@ -3,3 +3,4 @@
 - Discussed project goals
 - Assigned initial tasks
 - Planned next week meeting
+- Sarah: Prioritize feature list before coding.
