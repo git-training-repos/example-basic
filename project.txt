@@ -7,3 +7,4 @@ Scope: This tool targets solo developers and small teams.
 Contributors: Tom, Ben, Sarah
 Architecture: Modular, with CLI, core, and storage layers.
 Final Summary: Ready for stakeholder review.
+CLI Design:\n- Supports 'add', 'list', 'complete'\n- Uses argparse
